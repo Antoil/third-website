@@ -1,0 +1,11 @@
+.test_articolo{
+    font-family: "Libre Caslon Text", serif;
+    color: #FFF;
+}
+
+.test_articolo p{
+    line-height: 1;
+    font-size: 30px;
+    text-align: center;
+    padding: 53px 100px;
+}

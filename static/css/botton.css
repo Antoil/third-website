@@ -1,0 +1,18 @@
+.botton a:link,
+.botton a:hover,
+.botton a:visited,
+.botton a:active{
+    text-decoration: none;
+}
+.botton a{
+    color: #000;
+    background-color: #fff;
+    font-size: 30px;
+    padding: 14px 125px;
+    line-height: 50px;
+    margin-top: 35px;
+    margin-bottom: 119px;
+    border-radius: 15px;
+    font-family: 'Merriweather', serif;
+}
+

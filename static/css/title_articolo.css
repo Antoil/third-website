@@ -1,0 +1,13 @@
+.title_articolo {
+    font-family: 'Merriweather', serif;
+    color: #fff;
+    line-height: 1;
+    border-top: 3px solid #343434;
+    border-bottom: 3px solid #343434;
+}
+.title_articolo h2{
+    font-weight: bold;
+    text-align: center;
+    font-size: 80px;
+    margin: 20px;
+}
