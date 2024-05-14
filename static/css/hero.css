@@ -1,4 +1,7 @@
 
 .hero{
+    min-height: 100vh;
+    min-width: 100vw;
     background-image: url("../img/test.png");
+    margin: 0;
 }
