@@ -1,0 +1,20 @@
+.iconSocial ul li{
+    list-style: none;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+
+.iconSocial {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    justify-content: space-between;
+}
+
+.iconSocial ul{
+    display: flex;
+    flex-direction: row;
+    margin-left: 5px;
+    
+}

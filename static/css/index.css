@@ -3,3 +3,13 @@
 @import "test_articolo.css";
 @import "title_articolo.css";
 @import "hero.css";
+@import "list.css";
+@import "iconSocial.css";
+
+.parentUno{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    flex-grow: 1;
+}
